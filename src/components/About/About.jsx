@@ -125,7 +125,7 @@ export default function About() {
                         transition={{ duration: 0.8, delay: 0.6 }}
                     >
                         <motion.a
-                            href="https://drive.google.com/file/d/1v9g6w23BHyumaY1EiYEyf32ef-MY-CYm/view?usp=sharing"
+                            href="https://drive.google.com/file/d/1R_JiLzyw17ipQQKvDiKEC9UttzgKEbPQ/view?usp=sharing"
                             target="_blank"
                             rel="noopener noreferrer"
                             className="px-6 py-3 bg-gradient-to-r from-orange-500 to-red-600 text-white font-semibold rounded-lg shadow-md"

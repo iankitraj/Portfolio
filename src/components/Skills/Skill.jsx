@@ -58,14 +58,14 @@ export default function Skills() {
             {/* Resume Buttons */}
             <div className="flex gap-4 mb-16">
                 <a
-                    href="https://drive.google.com/file/d/1v9g6w23BHyumaY1EiYEyf32ef-MY-CYm/view?usp=sharing"
+                    href="https://drive.google.com/file/d/1R_JiLzyw17ipQQKvDiKEC9UttzgKEbPQ/view?usp=sharing"
                     className="bg-blue-600 hover:bg-blue-700 text-white font-semibold px-6 py-3 rounded-lg shadow-md transition transform hover:scale-105"
                 >
                     🔽 Download Resume
                 </a>
 
                 <a
-                    href="https://drive.google.com/file/d/1v9g6w23BHyumaY1EiYEyf32ef-MY-CYm/view?usp=sharing"
+                    href="https://drive.google.com/file/d/1R_JiLzyw17ipQQKvDiKEC9UttzgKEbPQ/view?usp=sharing"
                     target="_blank"
                     rel="noopener noreferrer"
                     className="bg-green-600 hover:bg-green-700 text-white font-semibold px-6 py-3 rounded-lg shadow-md transition transform hover:scale-105"
